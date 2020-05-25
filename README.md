@@ -39,7 +39,7 @@ This repository contains the code to implement the paper "Hand Gesture Recogniti
   - Training Set Accuracy = 94.14%
   - Validation Set Accuracy = 72.23%
   - Test Set Accuracy = 62%
-Precision, Recall and F-1 Score have been given in the slides
+- Precision, Recall and F-1 Score have been given in the slides
 
 ## References
 - Research Paper - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8392660
